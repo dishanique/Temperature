@@ -1,4 +1,4 @@
-var temperature = 86
+var Temperature = 86
 
 if (temperature < 0) {
     document.getElementNyId('welcome-message').innerHTML =
